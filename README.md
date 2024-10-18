@@ -15,6 +15,6 @@ This is a single-page CV for **Your Name**, showcasing skills and experience as 
 To view the CV, clone this repository and open the `index.html` file in your browser. Modify as needed.
 
 ```bash
-git clone https://github.com/your-github-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/davidliantan45/Single-Page-CV.git
+cd Single-Page-CV
 open index.html
